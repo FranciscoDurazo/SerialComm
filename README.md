@@ -1,5 +1,5 @@
 # SerialComm
 Requires for Python
-Numpy
-Serial
+Numpy,
+Serial and
 Matplotlib
